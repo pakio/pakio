@@ -1,4 +1,4 @@
-![pakio's github stats](https://github-readme-stats.vercel.app/api?username=pakio&count_private=true&show_icon=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pakio&layout=compact)](https://github.com/pakio/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakio&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pakio&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pakio&theme=nord_dark)
 
